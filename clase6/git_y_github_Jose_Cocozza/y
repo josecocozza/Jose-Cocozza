@@ -1,0 +1,13 @@
+git config user.name "nombreUsuario"	Agrega nuestra identidad
+git config user.email "emailUsuario"	Agrega nuestro e-mail
+git add .	Agrega todos los archivos
+git commit -m "mensaje"	Commitea los cambios hechos
+git remote add origin http://…	Apunta al repositorio remoto
+git remote -v	Verificar los repositorios que apunta
+git branch	Lista las ramas existentes
+git branch nombre_rama	crear branch
+git checkout nombre_rama	posicionarse en esa rama
+git push origin nombre_rama	Envía los archivos o cambios a la rama
+git pull origin nombre_rama	Actualizar los archivos de nuestro repositorio local
+git clone http://…	Clonando archivos de un repositorio remoto
+
