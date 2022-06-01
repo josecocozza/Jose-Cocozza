@@ -1,0 +1,117 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 30px;
+    font-weight: 700;
+    min-height: 60px;
+    height: auto;
+    margin-bottom: 8rem;
+    letter-spacing: .5em;
+    line-height: 60px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    background-color: #C4C4C4;
+    color: #005677;
+    height: 30px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 30px;
+    padding-left: 12.45px;
+    letter-spacing: .3em;
+}
+
+.destacado {
+    text-align: left;
+}
+
+.imagen {
+    display: block;
+    margin: auto;
+    width: 9%;
+    padding-top: 3px;
+    min-width: 182px;
+}
+
+.seccion {
+    margin-block-start: 2.5px;
+    margin-block-end: 2.5px;
+}
+
+.sectionStyles {
+    margin-bottom: 2.2rem;
+}
+
+.datos_personales {
+    display: inline;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.negrita {
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.normalito {
+    list-style-type: none;
+    padding-left: 5px;
+}
+
+.academico {
+    display: inline;
+    margin: 0;
+}
+
+.none {
+    display: flex;
+    list-style-type: none;
+}
+
+.destacado {
+    list-style-type: none;
+    padding-left: 5px;
+}
+
+.footer {
+    background-color: #005677;
+    height: 4vh;
+    min-height: 37px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
+.iconos{
+    color: #fff;
+    margin: 0 16px;
+    width: 20px;
+    height: 20px;
+}
+
+
+
+    
